@@ -56,7 +56,48 @@
     <li>detail game</li>
   </ol>
 
+<div class="feature">
+    <h3>1. Splashscreen</h3>
+    <p>Splashscreen adalah layar pertama yang muncul saat aplikasi dijalankan. Biasanya digunakan untuk menampilkan logo atau pesan selamat datang sementara aplikasi memuat.</p>
+    <img src="https://example.com/splashscreen.jpg" alt="Splashscreen Example">
+  </div>
 
+ <h2>Bab II: Penjelasan Fitur Aplikasi</h2>
+  <div class="feature">
+    <h3>2. Sign In</h3>
+    <p>Fitur Sign In memungkinkan pengguna untuk masuk ke dalam aplikasi dengan menggunakan kredensial yang telah terdaftar, seperti email dan password atau metode autentikasi lainnya.</p>
+    <img src="https://example.com/signin.jpg" alt="Sign In Example">
+  </div>
+
+  <div class="feature">
+    <h3>3. Home</h3>
+    <p>Home adalah layar utama aplikasi yang menampilkan konten utama atau informasi yang relevan bagi pengguna. Ini bisa berupa berita terbaru, tampilan game, atau konten yang disesuaikan.</p>
+    <img src="https://example.com/home.jpg" alt="Home Example">
+  </div>
+
+  <div class="feature">
+    <h3>4. Profil</h3>
+    <p>Fitur Profil memungkinkan pengguna untuk melihat dan mengelola informasi pribadi mereka. Pengguna dapat mengubah foto profil, mengedit informasi kontak, atau mengatur preferensi pengguna.</p>
+    <img src="https://example.com/profile.jpg" alt="Profil Example">
+  </div>
+
+  <div class="feature">
+    <h3>5. Favorit</h3>
+    <p>Fitur Favorit memungkinkan pengguna untuk menandai atau menyimpan item yang mereka sukai atau ingin simpan untuk akses cepat di kemudian hari, seperti game favorit atau konten lainnya.</p>
+    <img src="https://example.com/favorite.jpg" alt="Favorite Example">
+  </div>
+
+  <div class="feature">
+    <h3>6. Search</h3>
+    <p>Fitur Search memungkinkan pengguna untuk mencari konten dalam aplikasi, seperti game, pengguna lain, atau informasi lainnya berdasarkan kriteria tertentu.</p>
+    <img src="https://example.com/search.jpg" alt="Search Example">
+  </div>
+
+  <div class="feature">
+    <h3>7. Detail Game</h3>
+    <p>Fitur Detail Game menyediakan informasi lengkap tentang suatu game, termasuk deskripsi, gambar, ulasan, dan informasi terkait lainnya. Pengguna dapat melihat detail ini sebelum memutuskan untuk memainkan atau membeli game tersebut.</p>
+    <img src="https://example.com/detailgame.jpg" alt="Detail Game Example">
+  </div>
 
 
 
