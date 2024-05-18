@@ -120,5 +120,12 @@
       <li><a href="https://apidocs.cheapshark.com/#a2620d3f-683e-0396-61e7-3fe4d30ea376">CheapShark API</a>: API ini memberikan informasi tentang penawaran game dan harga.</li>
     </ul>
 
+<h2 align="center">Bab IV: Video Penggunaan Website</h2>
+
+  <div align="center">
+    <video width="800" controls>
+      <source src="nama_video.mp4" type="video/mp4">
+      Maaf, browser Anda tidak mendukung tag video.
+    </video>
 
 
