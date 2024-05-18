@@ -1,14 +1,26 @@
-# DAFTAR GAME GRATIS
+<h1 align="center"> DAFTAR GAME GRATIS </h1>
 
 <p align="justify"> Aplikasi Android ini menyediakan pengguna dengan akses mudah ke daftar game-game menarik yang dapat dimainkan secara gratis. Memanfaatkan layanan API FreeToGame, pengguna dapat dengan cepat menemukan berbagai judul game berkualitas tanpa biaya. Dengan antarmuka yang intuitif dan user-friendly, pengguna dapat menjelajahi daftar game, membaca deskripsi singkat, dan menemukan tautan langsung untuk mengunduh atau memainkan game secara online. Dengan aplikasi ini, pengguna dapat menikmati pengalaman bermain game yang menyenangkan tanpa harus khawatir tentang biaya. </p>
 
 
-## Anggota Proyek : 
--  #### Attar Akram Abdillah - 121140013  ( pengembang proyek )
--  #### Winnerson Laila - 121140121  ( pengembang proyek )
--  #### Solafide  Zamili - 121140201  ( pengembang proyek )
--  #### Nasrul Alfin Prassetyo - 121140001  ( pengujian dan dokumentasi )
--  #### Muhammad Faried Halim - 121140197  ( pengujian dan dokumentasi )
+<h2 align="center">Anggota Proyek</h2>
+<ul style="list-style-type:none; text-align:center; padding:0;">
+  <li>
+    <h4>Attar Akram Abdillah - 121140013 (pengembang proyek)</h4>
+  </li>
+  <li>
+    <h4>Winnerson Laila - 121140121 (pengembang proyek)</h4>
+  </li>
+  <li>
+    <h4>Solafide Zamili - 121140201 (pengembang proyek)</h4>
+  </li>
+  <li>
+    <h4>Nasrul Alfin Prassetyo - 121140001 (pengujian dan dokumentasi)</h4>
+  </li>
+  <li>
+    <h4>Muhammad Faried Halim - 121140197 (pengujian dan dokumentasi)</h4>
+  </li>
+</ul>
 
 <h1 align="center">  BAB I : System Strukture </h1>
 <p align="justify"> Tech Stack yang akan digunakan dalam aplikasi ini termasuk arsitektur MVVM untuk memisahkan antara model, tampilan, dan logika pemrosesan data. Aplikasi akan ditargetkan untuk SDK 34 dari Android. Basis data lokal akan dikelola menggunakan Room DB, sementara Retrofit akan digunakan untuk berkomunikasi dengan layanan API FreeToGame. Interceptor HTTP akan dipasang dengan Chucker untuk memantau dan mencatat panggilan API. Navigasi antar-fragmen akan dikelola menggunakan komponen Navigation, dan komponen Paging2 atau Paging3 akan digunakan untuk mengimplementasikan paginasi dalam daftar game.</p>		
