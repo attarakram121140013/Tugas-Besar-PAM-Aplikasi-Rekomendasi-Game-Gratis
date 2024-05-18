@@ -56,13 +56,14 @@
     <li>detail game</li>
   </ol>
 
+
+ <h2>Bab II: Penjelasan Fitur Aplikasi</h2>
 <div class="feature">
     <h3>1. Splashscreen</h3>
     <p>Splashscreen adalah layar pertama yang muncul saat aplikasi dijalankan. Biasanya digunakan untuk menampilkan logo atau pesan selamat datang sementara aplikasi memuat.</p>
     <img src="https://example.com/splashscreen.jpg" alt="Splashscreen Example">
   </div>
 
- <h2>Bab II: Penjelasan Fitur Aplikasi</h2>
   <div class="feature">
     <h3>2. Sign In</h3>
     <p>Fitur Sign In memungkinkan pengguna untuk masuk ke dalam aplikasi dengan menggunakan kredensial yang telah terdaftar, seperti email dan password atau metode autentikasi lainnya.</p>
