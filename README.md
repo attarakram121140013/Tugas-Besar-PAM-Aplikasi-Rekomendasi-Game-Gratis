@@ -100,6 +100,20 @@
     <img src="https://example.com/detailgame.jpg" alt="Detail Game Example">
   </div>
 
+ <h2>Bab III: Metode dan Penjelasan API</h2>
+
+  <div class="method">
+    <h3>Metode Waterfall</h3>
+    <p>Kami menggunakan metode Waterfall dalam pengembangan aplikasi kami. Metode ini mengikuti alur kerja yang linear, dimulai dari perencanaan, analisis, desain, pengembangan, pengujian, hingga implementasi. Setiap tahap harus selesai sebelum memasuki tahap berikutnya.</p>
+  </div>
+
+  <div class="api">
+    <h3>API yang Kami Gunakan</h3>
+    <p>Berikut adalah API yang kami gunakan untuk aplikasi kami:</p>
+    <ul>
+      <li><a href="https://www.freetogame.com/api-doc">FreeToGame API</a>: API ini menyediakan data tentang game gratis.</li>
+      <li><a href="https://apidocs.cheapshark.com/#a2620d3f-683e-0396-61e7-3fe4d30ea376">CheapShark API</a>: API ini memberikan informasi tentang penawaran game dan harga.</li>
+    </ul>
 
 
 
