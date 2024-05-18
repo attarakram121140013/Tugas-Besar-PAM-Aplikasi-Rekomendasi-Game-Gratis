@@ -45,7 +45,7 @@
 </p>
 <p align="center">Di dalam desain kami, kami memiliki beberapa layer:</p>
 <div align="center">
-  <ol style="text-align: left; display: inline-block;">
+  <ol style="text-align: left;">
     <li>splashscreen</li>
     <li>sign in</li>
     <li>home</li>
