@@ -10,7 +10,7 @@
 -  #### Nasrul Alfin Prassetyo - 121140001  ( pengujian dan dokumentasi )
 -  #### Muhammad Faried Halim - 121140197  ( pengujian dan dokumentasi )
 
-## BAB I : System Strukture
+<h1 align="center"> ## BAB I : System Strukture </h1>
 <p align="justify"> Tech Stack yang akan digunakan dalam aplikasi ini termasuk arsitektur MVVM untuk memisahkan antara model, tampilan, dan logika pemrosesan data. Aplikasi akan ditargetkan untuk SDK 34 dari Android. Basis data lokal akan dikelola menggunakan Room DB, sementara Retrofit akan digunakan untuk berkomunikasi dengan layanan API FreeToGame. Interceptor HTTP akan dipasang dengan Chucker untuk memantau dan mencatat panggilan API. Navigasi antar-fragmen akan dikelola menggunakan komponen Navigation, dan komponen Paging2 atau Paging3 akan digunakan untuk mengimplementasikan paginasi dalam daftar game.</p>		
 ### 1.1 Entity Relationship Diagram (ERD)
 <p align="center">
