@@ -45,6 +45,7 @@
 </p>
 <p align="center">Di dalam desain kami, kami memiliki beberapa layer:</p>
 <div align="center">
+  </div>
   <ol style="text-align: left;">
     <li>splashscreen</li>
     <li>sign in</li>
@@ -54,7 +55,7 @@
     <li>search</li>
     <li>detail game</li>
   </ol>
-</div>
+
 
 
 
