@@ -105,6 +105,8 @@
   <div class="method">
     <h3>Metode Waterfall</h3>
     <p>Kami menggunakan metode Waterfall dalam pengembangan aplikasi kami. Metode ini mengikuti alur kerja yang linear, dimulai dari perencanaan, analisis, desain, pengembangan, pengujian, hingga implementasi. Setiap tahap harus selesai sebelum memasuki tahap berikutnya.</p>
+![image](https://github.com/attarakram121140013/Tugas-Besar-PAM-Aplikasi-Rekomendasi-Game-Gratis/assets/96344530/0d964d60-55cc-405b-98ce-fe973461840a)
+
   </div>
 
   <div class="api">
