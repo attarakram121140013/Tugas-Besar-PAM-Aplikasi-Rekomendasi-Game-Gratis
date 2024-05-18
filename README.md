@@ -4,9 +4,9 @@ Aplikasi Android ini menyediakan pengguna dengan akses mudah ke daftar game-game
 
 
 ## Anggota Proyek : 
-[Attar Akram Abdillah - 121140013] (#pengembang proyek)
-[Winnerson Laila - 121140121] (#pengembang proyek)
-[Solafide  Zamili - 121140201] (#pengembang proyek)
-[Nasrul Alfin Prassetyo - 121140001] (#pengujian dan dokumentasi)
-[Muhammad Faried Halim - 121140197] (#pengujian dan dokumentasi)
+- [ Attar Akram Abdillah - 121140013 ] ( #pengembang proyek )
+- [ Winnerson Laila - 121140121 ] ( #pengembang proyek )
+- [ Solafide  Zamili - 121140201 ] ( #pengembang proyek )
+- [ Nasrul Alfin Prassetyo - 121140001 ] ( #pengujian dan dokumentasi )
+- [ Muhammad Faried Halim - 121140197 ] ( #pengujian dan dokumentasi )
 
