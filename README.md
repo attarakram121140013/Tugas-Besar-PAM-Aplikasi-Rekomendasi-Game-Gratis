@@ -40,7 +40,22 @@
 </p>
 
 <h2 align="center"> 1.4 Desain </h2>
-https://www.figma.com/file/YjxT3uiYV3rpXhAW8vc8Yn/Tugas-Besar-Pengembangan-Aplikasi-Mobile-R---03?type=design&mode=design&t=mwpzdenIHItqEs5O-0 
+<p align="center">
+  <a href="https://www.figma.com/file/YjxT3uiYV3rpXhAW8vc8Yn/Tugas-Besar-Pengembangan-Aplikasi-Mobile-R---03?type=design&mode=design&t=mwpzdenIHItqEs5O-0">Link ke Desain Figma</a>
+</p>
+<p align="center">Di dalam desain kami, kami memiliki beberapa layer:</p>
+<div align="center">
+  <ol style="text-align: left; display: inline-block;">
+    <li>splashscreen</li>
+    <li>sign in</li>
+    <li>home</li>
+    <li>profil</li>
+    <li>favorit</li>
+    <li>search</li>
+    <li>detail game</li>
+  </ol>
+</div>
+
 
 
 
