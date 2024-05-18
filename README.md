@@ -10,3 +10,10 @@ Aplikasi Android ini menyediakan pengguna dengan akses mudah ke daftar game-game
 - [ Nasrul Alfin Prassetyo - 121140001 ] ( #pengujian dan dokumentasi )
 - [ Muhammad Faried Halim - 121140197 ] ( #pengujian dan dokumentasi )
 
+  - [Instalasi](#instalasi)
+- [Penggunaan](#penggunaan)
+- [Kontribusi](#kontribusi)
+- [Lisensi](#lisensi)
+- [Kontak](#kontak)
+- [Pengembang Proyek](#pengembang-proyek)
+
