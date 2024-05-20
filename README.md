@@ -60,31 +60,45 @@
 
 ## 1. Splashscreen
 Splashscreen adalah layar pertama yang muncul saat aplikasi dijalankan. Biasanya digunakan untuk menampilkan logo atau pesan selamat datang sementara aplikasi memuat.
-![Splashscreen Example](https://github.com/attarakram121140013/Tugas-Besar-PAM-Aplikasi-Rekomendasi-Game-Gratis/assets/96344530/bf41d3a7-307e-4da4-9431-9a29129dd396)
+<p align="center">
+  <img src="https://github.com/attarakram121140013/Tugas-Besar-PAM-Aplikasi-Rekomendasi-Game-Gratis/assets/96344530/bf41d3a7-307e-4da4-9431-9a29129dd396" alt="Splashscreen Example">
+</p>
 
 ## 2. Sign In
 Fitur Sign In memungkinkan pengguna untuk masuk ke dalam aplikasi dengan menggunakan kredensial yang telah terdaftar, seperti email dan password atau metode autentikasi lainnya.
-![Sign In Example](https://github.com/attarakram121140013/Tugas-Besar-PAM-Aplikasi-Rekomendasi-Game-Gratis/assets/96344530/42d1b574-d42c-453f-9030-4a0782db9d4c)
+<p align="center">
+  <img src="https://github.com/attarakram121140013/Tugas-Besar-PAM-Aplikasi-Rekomendasi-Game-Gratis/assets/96344530/42d1b574-d42c-453f-9030-4a0782db9d4c" alt="Sign In Example">
+</p>
 
 ## 3. Home
 Home adalah layar utama aplikasi yang menampilkan konten utama atau informasi yang relevan bagi pengguna. Ini bisa berupa berita terbaru, tampilan game, atau konten yang disesuaikan.
-![Home Example](https://github.com/attarakram121140013/Tugas-Besar-PAM-Aplikasi-Rekomendasi-Game-Gratis/assets/96344530/3af84ccc-9b2d-435d-9fed-03ea047ce4cd)
+<p align="center">
+  <img src="https://github.com/attarakram121140013/Tugas-Besar-PAM-Aplikasi-Rekomendasi-Game-Gratis/assets/96344530/3af84ccc-9b2d-435d-9fed-03ea047ce4cd" alt="Home Example">
+</p>
 
 ## 4. Profil
 Fitur Profil memungkinkan pengguna untuk melihat dan mengelola informasi pribadi mereka. Pengguna dapat mengubah foto profil, mengedit informasi kontak, atau mengatur preferensi pengguna.
-![Profil Example](https://github.com/attarakram121140013/Tugas-Besar-PAM-Aplikasi-Rekomendasi-Game-Gratis/assets/96344530/063b0733-60ea-4aa7-a737-2a58151eca67)
+<p align="center">
+  <img src="https://github.com/attarakram121140013/Tugas-Besar-PAM-Aplikasi-Rekomendasi-Game-Gratis/assets/96344530/063b0733-60ea-4aa7-a737-2a58151eca67" alt="Profil Example">
+</p>
 
 ## 5. Favorit
 Fitur Favorit memungkinkan pengguna untuk menandai atau menyimpan item yang mereka sukai atau ingin simpan untuk akses cepat di kemudian hari, seperti game favorit atau konten lainnya.
-![Favorite Example](https://github.com/attarakram121140013/Tugas-Besar-PAM-Aplikasi-Rekomendasi-Game-Gratis/assets/96344530/3bc87058-8f1a-47a9-ad77-084871cc74c2)
+<p align="center">
+  <img src="https://github.com/attarakram121140013/Tugas-Besar-PAM-Aplikasi-Rekomendasi-Game-Gratis/assets/96344530/3bc87058-8f1a-47a9-ad77-084871cc74c2" alt="Favorite Example">
+</p>
 
 ## 6. Search
 Fitur Search memungkinkan pengguna untuk mencari konten dalam aplikasi, seperti game, pengguna lain, atau informasi lainnya berdasarkan kriteria tertentu.
-![Search Example](https://github.com/attarakram121140013/Tugas-Besar-PAM-Aplikasi-Rekomendasi-Game-Gratis/assets/96344530/6b93f6d7-91c7-484e-9cdd-ceb60631be5b)
+<p align="center">
+  <img src="https://github.com/attarakram121140013/Tugas-Besar-PAM-Aplikasi-Rekomendasi-Game-Gratis/assets/96344530/6b93f6d7-91c7-484e-9cdd-ceb60631be5b" alt="Search Example">
+</p>
 
 ## 7. Detail Game
 Fitur Detail Game menyediakan informasi lengkap tentang suatu game, termasuk deskripsi, gambar, ulasan, dan informasi terkait lainnya. Pengguna dapat melihat detail ini sebelum memutuskan untuk memainkan atau membeli game tersebut.
-![Detail Game Example](https://github.com/attarakram121140013/Tugas-Besar-PAM-Aplikasi-Rekomendasi-Game-Gratis/assets/96344530/8c699e69-da67-4cd6-901b-ba07227d5a25)
+<p align="center">
+  <img src="https://github.com/attarakram121140013/Tugas-Besar-PAM-Aplikasi-Rekomendasi-Game-Gratis/assets/96344530/8c699e69-da67-4cd6-901b-ba07227d5a25" alt="Detail Game Example">
+</p>
 
 
  <h2>Bab III: Metode dan Penjelasan API</h2>
