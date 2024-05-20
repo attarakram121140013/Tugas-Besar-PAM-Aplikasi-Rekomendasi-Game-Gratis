@@ -56,49 +56,36 @@
     <li>detail game</li>
   </ol>
 
+# Bab II: Penjelasan Fitur Aplikasi
 
- <h2>Bab II: Penjelasan Fitur Aplikasi</h2>
-<div class="feature">
-    <h3>1. Splashscreen</h3>
-    <p>Splashscreen adalah layar pertama yang muncul saat aplikasi dijalankan. Biasanya digunakan untuk menampilkan logo atau pesan selamat datang sementara aplikasi memuat.</p>
-    <img src="https://example.com/splashscreen.jpg" alt="Splashscreen Example">
-  </div>
+## 1. Splashscreen
+Splashscreen adalah layar pertama yang muncul saat aplikasi dijalankan. Biasanya digunakan untuk menampilkan logo atau pesan selamat datang sementara aplikasi memuat.
+![Splashscreen Example](https://github.com/attarakram121140013/Tugas-Besar-PAM-Aplikasi-Rekomendasi-Game-Gratis/assets/96344530/bf41d3a7-307e-4da4-9431-9a29129dd396)
 
-  <div class="feature">
-    <h3>2. Sign In</h3>
-    <p>Fitur Sign In memungkinkan pengguna untuk masuk ke dalam aplikasi dengan menggunakan kredensial yang telah terdaftar, seperti email dan password atau metode autentikasi lainnya.</p>
-    <img src="https://example.com/signin.jpg" alt="Sign In Example">
-  </div>
+## 2. Sign In
+Fitur Sign In memungkinkan pengguna untuk masuk ke dalam aplikasi dengan menggunakan kredensial yang telah terdaftar, seperti email dan password atau metode autentikasi lainnya.
+![Sign In Example](https://github.com/attarakram121140013/Tugas-Besar-PAM-Aplikasi-Rekomendasi-Game-Gratis/assets/96344530/42d1b574-d42c-453f-9030-4a0782db9d4c)
 
-  <div class="feature">
-    <h3>3. Home</h3>
-    <p>Home adalah layar utama aplikasi yang menampilkan konten utama atau informasi yang relevan bagi pengguna. Ini bisa berupa berita terbaru, tampilan game, atau konten yang disesuaikan.</p>
-    <img src="https://example.com/home.jpg" alt="Home Example">
-  </div>
+## 3. Home
+Home adalah layar utama aplikasi yang menampilkan konten utama atau informasi yang relevan bagi pengguna. Ini bisa berupa berita terbaru, tampilan game, atau konten yang disesuaikan.
+![Home Example](https://github.com/attarakram121140013/Tugas-Besar-PAM-Aplikasi-Rekomendasi-Game-Gratis/assets/96344530/3af84ccc-9b2d-435d-9fed-03ea047ce4cd)
 
-  <div class="feature">
-    <h3>4. Profil</h3>
-    <p>Fitur Profil memungkinkan pengguna untuk melihat dan mengelola informasi pribadi mereka. Pengguna dapat mengubah foto profil, mengedit informasi kontak, atau mengatur preferensi pengguna.</p>
-    <img src="https://example.com/profile.jpg" alt="Profil Example">
-  </div>
+## 4. Profil
+Fitur Profil memungkinkan pengguna untuk melihat dan mengelola informasi pribadi mereka. Pengguna dapat mengubah foto profil, mengedit informasi kontak, atau mengatur preferensi pengguna.
+![Profil Example](https://github.com/attarakram121140013/Tugas-Besar-PAM-Aplikasi-Rekomendasi-Game-Gratis/assets/96344530/063b0733-60ea-4aa7-a737-2a58151eca67)
 
-  <div class="feature">
-    <h3>5. Favorit</h3>
-    <p>Fitur Favorit memungkinkan pengguna untuk menandai atau menyimpan item yang mereka sukai atau ingin simpan untuk akses cepat di kemudian hari, seperti game favorit atau konten lainnya.</p>
-    <img src="https://example.com/favorite.jpg" alt="Favorite Example">
-  </div>
+## 5. Favorit
+Fitur Favorit memungkinkan pengguna untuk menandai atau menyimpan item yang mereka sukai atau ingin simpan untuk akses cepat di kemudian hari, seperti game favorit atau konten lainnya.
+![Favorite Example](https://github.com/attarakram121140013/Tugas-Besar-PAM-Aplikasi-Rekomendasi-Game-Gratis/assets/96344530/3bc87058-8f1a-47a9-ad77-084871cc74c2)
 
-  <div class="feature">
-    <h3>6. Search</h3>
-    <p>Fitur Search memungkinkan pengguna untuk mencari konten dalam aplikasi, seperti game, pengguna lain, atau informasi lainnya berdasarkan kriteria tertentu.</p>
-    <img src="https://example.com/search.jpg" alt="Search Example">
-  </div>
+## 6. Search
+Fitur Search memungkinkan pengguna untuk mencari konten dalam aplikasi, seperti game, pengguna lain, atau informasi lainnya berdasarkan kriteria tertentu.
+![Search Example](https://github.com/attarakram121140013/Tugas-Besar-PAM-Aplikasi-Rekomendasi-Game-Gratis/assets/96344530/6b93f6d7-91c7-484e-9cdd-ceb60631be5b)
 
-  <div class="feature">
-    <h3>7. Detail Game</h3>
-    <p>Fitur Detail Game menyediakan informasi lengkap tentang suatu game, termasuk deskripsi, gambar, ulasan, dan informasi terkait lainnya. Pengguna dapat melihat detail ini sebelum memutuskan untuk memainkan atau membeli game tersebut.</p>
-    <img src="https://example.com/detailgame.jpg" alt="Detail Game Example">
-  </div>
+## 7. Detail Game
+Fitur Detail Game menyediakan informasi lengkap tentang suatu game, termasuk deskripsi, gambar, ulasan, dan informasi terkait lainnya. Pengguna dapat melihat detail ini sebelum memutuskan untuk memainkan atau membeli game tersebut.
+![Detail Game Example](https://github.com/attarakram121140013/Tugas-Besar-PAM-Aplikasi-Rekomendasi-Game-Gratis/assets/96344530/8c699e69-da67-4cd6-901b-ba07227d5a25)
+
 
  <h2>Bab III: Metode dan Penjelasan API</h2>
 
