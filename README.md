@@ -8,15 +8,16 @@
   <li>
     <h4>Attar Akram Abdillah - 121140013 (pengembang proyek)</h4>
   </li>
-  <li>
-    <h4>Winnerson Laila - 121140121 (pengembang proyek)</h4>
-  </li>
-  <li>
+   <li>
     <h4>Solafide Zamili - 121140201 (pengembang proyek)</h4>
   </li>
   <li>
     <h4>Nasrul Alfin Prassetyo - 121140001 (pengujian dan dokumentasi)</h4>
   </li>
+  <li>
+    <h4>Winnerson Laila - 121140121 (penguji dan dokumentasi)</h4>
+  </li>
+ 
   <li>
     <h4>Muhammad Faried Halim - 121140197 (pengujian dan dokumentasi)</h4>
   </li>
@@ -121,7 +122,7 @@ Fitur Detail Game menyediakan informasi lengkap tentang suatu game, termasuk des
       <li><a href="https://apidocs.cheapshark.com/#a2620d3f-683e-0396-61e7-3fe4d30ea376">CheapShark API</a>: API ini memberikan informasi tentang penawaran game dan harga.</li>
     </ul>
 
-<h2 align="center">Bab IV: Video Penggunaan Website</h2>
+<h2>>Bab IV: Video Penggunaan Website</h2>
 
   <div align="center">
     <video width="800" controls>
