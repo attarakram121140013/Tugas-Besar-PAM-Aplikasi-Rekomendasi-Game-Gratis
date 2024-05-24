@@ -122,7 +122,7 @@ Fitur Detail Game menyediakan informasi lengkap tentang suatu game, termasuk des
       <li><a href="https://apidocs.cheapshark.com/#a2620d3f-683e-0396-61e7-3fe4d30ea376">CheapShark API</a>: API ini memberikan informasi tentang penawaran game dan harga.</li>
     </ul>
 
-<h2>>Bab IV: Video Penggunaan Website</h2>
+<h2>Bab IV: Video Penggunaan Website</h2>
 
   <div align="center">
     <video width="800" controls>
